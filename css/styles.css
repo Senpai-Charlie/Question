@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #6096B4;
+}
+
+h1{
+  color: #000000;
+  margin-top: 20%;
+  font-family: 'Courgette', cursive;
+}
+
+button {
+  background-color: #00425A;
+  border: black;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:'Montserrat', fantasy;
+  font-size: 10px;
+  margin: 8px 2px;
+  cursor: pointer;
+}
